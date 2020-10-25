@@ -1,0 +1,2 @@
+# HealthChecks
+SQL Server HealthCheck
